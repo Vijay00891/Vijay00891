@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Vijay
 
-<!--
-**Vijay00891/Vijay00891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack MERN Developer  
+🤖 Interested in AI Technologies  
+🚀 Building cool projects  
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Node.js
+- MongoDB
+- Express
+- Python
+- Docker
+
+## Connect With Me
+
+- LinkedIn
+- Portfolio
+- Twitter
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay123&show_icons=true&theme=tokyonight)
