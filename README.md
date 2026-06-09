@@ -21,3 +21,5 @@
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vijay00891&theme=tokyonight)
 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijay00891&theme=tokyo-night)
