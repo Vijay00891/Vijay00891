@@ -1,24 +1,16 @@
 # Hi 👋, I'm Vijay
 
-💻 Full Stack MERN Developer  
-🤖 Interested in AI Technologies  
-🚀 Building cool projects  
+💻 MERN Stack Developer  
+🤖 AI Enthusiast  
 
-## Tech Stack
-
-- React
-- Node.js
-- MongoDB
-- Express
-- Python
-- Docker
-
-## Connect With Me
-
-- LinkedIn
-- Portfolio
-- Twitter
-
-
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijay00891&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vijay00891&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay00891&layout=compact&theme=tokyonight)
