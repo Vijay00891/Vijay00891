@@ -2,7 +2,9 @@
 👋 Hi, I'm Vijay
 💻 MERN Stack Developer | 🤖 AI Enthusiast | 🚀 Full Stack Builder
 <img src="https://komarev.com/ghpvc/?username=Vijay00891&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/> </div>
-🧑‍💻 About Me
+### 👨‍💻 About Me
+
+```javascript
 const vijay = {
     role: "MERN Stack Developer",
     interests: ["AI", "Web Development", "Open Source"],
@@ -10,6 +12,8 @@ const vijay = {
     languages: ["JavaScript", "Python"],
     motto: "Build. Learn. Repeat. 🚀"
 };
+```
+
 
 🚀 Tech Stack
 <div align="center">
